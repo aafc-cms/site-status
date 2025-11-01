@@ -31,6 +31,8 @@ jobs:
         with:
           app-id: ${{ vars.UPPTIME_APP_ID }}
           private-key: ${{ secrets.UPPTIME_BOT_KEY }}
+          owner: "aafc-cms"
+          repository: "site-status"
       - name: Checkout
         uses: actions/checkout@v4
         with:
