@@ -6,15 +6,5 @@ sites:
     url: https://agriculture.canada.ca/en/programs  
 
 status-website:
-  #cname: demo.upptime.js.org
   baseUrl: /site-status
   name: AAFC CMS Status
-  introTitle: "AAFC Online Status"
-  navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
