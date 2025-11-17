@@ -1,5 +1,6 @@
 owner: aafc-cms
 repo: site-status
+timezone: "America/Toronto"
 
 sites:
   - name: AAFC Online
