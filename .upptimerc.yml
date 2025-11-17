@@ -3,12 +3,12 @@ repo: site-status
 
 sites:
   - name: AAFC Online
-    url: https://agriculture.canada.ca/en/programs
+    url: https://agriculture.canada.ca/en/programs?random=$RANDOM
     expectedStatusCodes:
       - 200
       - 201
   - name: AAFC Online EP
-    url: https://www-ep.agr.gc.ca/en/programs
+    url: https://www-ep.agr.gc.ca/en/programs?random=$RANDOM
     maxRedirects: 0
     expectedStatusCodes:
       - 200
