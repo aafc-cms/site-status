@@ -4,7 +4,7 @@
     "url": "https://agriculture.canada.ca/en/programs?random=$RANDOM",
     "icon": "https://icons.duckduckgo.com/ip3/agriculture.canada.ca.ico",
     "slug": "aafc-online",
-    "status": "up",
+    "status": "down",
     "uptime": "97.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.15%",
@@ -16,6 +16,7 @@
     "timeMonth": 596,
     "timeYear": 584,
     "dailyMinutesDown": {
+      "2026-02-18": 0,
       "2026-02-13": 52,
       "2026-02-12": 34,
       "2026-02-10": 262,
