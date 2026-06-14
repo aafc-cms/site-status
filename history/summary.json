@@ -5,14 +5,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/agriculture.canada.ca.ico",
     "slug": "aafc-online",
     "status": "down",
-    "uptime": "96.69%",
-    "uptimeDay": "74.44%",
-    "uptimeWeek": "75.50%",
-    "uptimeMonth": "87.37%",
-    "uptimeYear": "96.69%",
+    "uptime": "96.63%",
+    "uptimeDay": "73.55%",
+    "uptimeWeek": "74.68%",
+    "uptimeMonth": "86.92%",
+    "uptimeYear": "96.63%",
     "time": 708,
     "timeDay": 1250,
-    "timeWeek": 1216,
+    "timeWeek": 994,
     "timeMonth": 1185,
     "timeYear": 708,
     "dailyMinutesDown": {
@@ -79,7 +79,7 @@
       "2026-06-10": 12,
       "2026-06-12": 24,
       "2026-06-13": 368,
-      "2026-06-14": 0
+      "2026-06-14": 193
     }
   },
   {
@@ -88,11 +88,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www-ep.agr.gc.ca.ico",
     "slug": "aafc-online-ep",
     "status": "down",
-    "uptime": "62.09%",
+    "uptime": "62.05%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "62.09%",
+    "uptimeYear": "62.05%",
     "time": 197,
     "timeDay": 0,
     "timeWeek": 0,
@@ -100,7 +100,7 @@
     "timeYear": 197,
     "dailyMinutesDown": {
       "2025-11-08": 29,
-      "2026-06-14": 12,
+      "2026-06-14": 204,
       "2026-06-13": 1440,
       "2026-06-12": 1440,
       "2026-06-11": 1440,
