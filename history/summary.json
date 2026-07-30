@@ -4,16 +4,16 @@
     "url": "https://agriculture.canada.ca/en/programs?random=$RANDOM",
     "icon": "https://icons.duckduckgo.com/ip3/agriculture.canada.ca.ico",
     "slug": "aafc-online",
-    "status": "down",
-    "uptime": "96.37%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.12%",
-    "uptimeMonth": "96.19%",
-    "uptimeYear": "96.37%",
+    "status": "up",
+    "uptime": "96.36%",
+    "uptimeDay": "95.99%",
+    "uptimeWeek": "98.55%",
+    "uptimeMonth": "96.06%",
+    "uptimeYear": "96.36%",
     "time": 758,
-    "timeDay": 957,
-    "timeWeek": 641,
-    "timeMonth": 915,
+    "timeDay": 708,
+    "timeWeek": 621,
+    "timeMonth": 905,
     "timeYear": 758,
     "dailyMinutesDown": {
       "2026-03-21": 353,
@@ -84,7 +84,7 @@
       "2026-07-22": 89,
       "2026-07-23": 99,
       "2026-07-24": 88,
-      "2026-07-30": 0
+      "2026-07-30": 58
     }
   },
   {
@@ -105,7 +105,7 @@
     "timeYear": 197,
     "dailyMinutesDown": {
       "2025-11-08": 29,
-      "2026-07-30": 1366,
+      "2026-07-30": 1424,
       "2026-07-29": 1440,
       "2026-07-28": 1440,
       "2026-07-27": 1440,
